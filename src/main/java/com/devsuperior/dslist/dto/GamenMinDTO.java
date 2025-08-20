@@ -1,7 +1,5 @@
 package com.devsuperior.dslist.dto;
 
-import org.hibernate.query.sqm.tree.domain.SqmTreatedEntityValuedSimplePath;
-
 import com.devsuperior.dslist.entities.Game;
 
 public class GamenMinDTO {
